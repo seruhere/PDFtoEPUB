@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDF to EPUB Converter</string>
+    <style name="Theme.PdfToEpub" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
